@@ -1,2 +1,2 @@
-# FunWorld VR Haunted House Template
+# FunWorld VR Haunted House
  Some mysterious happenings occur in a fun world!
